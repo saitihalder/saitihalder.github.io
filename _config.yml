@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Saiti Halder"
 title_separator          : "-"
 name                     : &name "Saiti Halder"
-description              : &description "Aerospace Engineer"
+description              : &description "Biomedical Engineer"
 url                      : https://saitihalder.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saitihalder.github.io"
