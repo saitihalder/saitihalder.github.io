@@ -26,6 +26,6 @@ After my journey ended at Columbia University, I wanted to continue my research 
 
 **Professional Experience**
 
-During my graduate journey, I witnessed the struggles scientists often face in commercializing their inventions. I recognized that there exists a gap between great scientific discoveries and the business considerations that can make a commercial path feasible. Always having a penchant for solving business problems, I decided to pursue.  
+During my graduate journey, I witnessed the struggles scientists often face in commercializing their inventions. I recognized that there exists a gap between great scientific discoveries and the business considerations that can make a commercial path feasible. Always having a penchant for solving business problems, I decided to pursue management consulting.  
 
 Thank you for visiting.
